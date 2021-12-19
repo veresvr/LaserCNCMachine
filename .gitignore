@@ -1,6 +1,6 @@
 3D/~$*.SLDASM
 3D/~$*.SLDPRT
-3D/Electrical/~$*.SLDPRT
+3D/Electrical/*.*
 ToDo.txt
 Assembling manual.docx
 ~$sembling manual.docx
