@@ -14,4 +14,3 @@ I also thought it would be nice to develop a [carriage with a motor] to use as a
 [carriage with a motor]: <https://github.com/veresvr/SpindleCarriageForCNC>
 
 ## Structure
-<img src="https://github.com/veresvr/LaserCNCMachine/blob/main/pic/structure.svg"></img>
