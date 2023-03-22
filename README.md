@@ -1,16 +1,9 @@
 # Laser CNC Machine
 
-#### This machine was designed to reduce the labor intensity of PCB manufacturing. 
-In this design, the moving element is a carriage, which moves on a structural profile by means of belts and NEMA 17HS4401 stepper motors. 
-The dimensions of the working area are 260 x 265 and the maximum height is 32 mm.
-I also thought it would be nice to develop a [carriage with a motor] to use as a drilling/milling machine.
+This machine is not something special, just DIY.
+Firstly I planned to use a laser but its so easy, so I desided to build milling carriage, like [this]: <https://github.com/veresvr/SpindleCarriageForCNC>.
+Also here is [Control Box]: <https://github.com/veresvr/SpindleCarriageForCNC> for it.
 
-##### CNC with laser carriage  
-<img src="https://github.com/veresvr/LaserCNCMachine/blob/main/pic/preview-laser.png"></img>
 
-##### CNC with motor carriage  
-<img src="https://github.com/veresvr/LaserCNCMachine/blob/main/pic/preview-motor.png"></img>
+<img src="https://github.com/veresvr/LaserCNCMachine/blob/main/cnc.png"></img>
 
-[carriage with a motor]: <https://github.com/veresvr/SpindleCarriageForCNC>
-
-## Structure
