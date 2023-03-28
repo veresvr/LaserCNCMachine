@@ -2,7 +2,7 @@
 
 This machine is not something special, just DIY.
 Firstly I planned to use a laser but its so easy, so I decided to build milling carriage, like [this](https://github.com/veresvr/SpindleCarriageForCNC).
-Also here is [Control Box](https://github.com/veresvr/SpindleCarriageForCNC) for it.<br>
+Also here is [Control Box](https://github.com/veresvr/CNC-Control-Box) for it.<br>
 BOM and drawings for the machine [here](https://github.com/veresvr/LaserCNCMachine/tree/main/ProductionFiles/LaserCNCMachine.pdf).
 
 
